@@ -22,7 +22,7 @@ This is how the result looks like:
 This example is using environment variables for username and password:
 
 ```
-// set environment variables before running this script
+// Don't forget to set environment variables before running this script
 
 const ebox = require('ebox');
 
