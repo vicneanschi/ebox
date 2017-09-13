@@ -7,6 +7,10 @@
     "ebox.ca",
     "isp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicneanschi/ebox.git"
+  },
   "main": "ebox.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
